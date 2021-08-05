@@ -3,3 +3,5 @@
 Eudis Rene tiene 44 años y nació en Colombia
 
 mañana hablaremos de su vida laboral.
+
+prueba de git reset 
